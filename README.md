@@ -32,6 +32,7 @@ dan mengirim pesan secara realtime. Aplikasi ini menggunakan Firebase untuk aute
 - Menampilkan bubble chat berbeda untuk pesan sendiri dan pesan lawan bicara
 - Upload foto profil menggunakan Expo Image Picker 
 - Persistensi login menggunakan Async Storage
+- **Fitur "typing indicator" pada aplikasi menggunakan Firestore**
 - **Indikator online/offline menggunakan Firestore**
 
 
